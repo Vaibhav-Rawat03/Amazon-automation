@@ -1,0 +1,27 @@
+Jan 21, 2024 3:00:38 PM AmazonAutomation logInfo
+INFO: Opened Amazon website
+Jan 21, 2024 3:00:38 PM AmazonAutomation logInfo
+INFO: Current URL:https://www.amazon.in/
+Jan 21, 2024 3:00:38 PM AmazonAutomation logInfo
+INFO: Current Title:Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+Jan 21, 2024 3:00:38 PM AmazonAutomation logInfo
+INFO: Performed search for 'mobile'
+Jan 21, 2024 3:00:40 PM AmazonAutomation logInfo
+INFO: Selected 4 stars filter
+Jan 21, 2024 3:00:43 PM AmazonAutomation logInfo
+INFO: Selected price range ?10,000 - ?20,000
+Jan 21, 2024 3:00:43 PM AmazonAutomation logInfo
+INFO: Clicked on the first search result
+Jan 21, 2024 3:00:43 PM AmazonAutomation logInfo
+INFO: Window handles: [56586418C98B51934FC9FBECEE6281EC, 1BCE9D7FFB6E6B49D68B5FFA7C2620CC]
+Jan 21, 2024 3:01:03 PM AmazonAutomation logInfo
+INFO: Clicked on 'Add to Cart' button
+Jan 21, 2024 3:01:18 PM AmazonAutomation logError
+SEVERE: Exception occurred: Expected condition failed: waiting for element to be clickable: By.id: attach-sidesheet-view-cart-button-announce (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.225, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\vaibh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53324}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53324/devtoo..., se:cdpVersion: 120.0.6099.225, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f15f0f888182310c785779e11531f2b
+Jan 21, 2024 3:01:19 PM AmazonAutomation logInfo
+INFO: Browser closed
